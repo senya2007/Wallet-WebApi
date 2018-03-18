@@ -1,0 +1,11 @@
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\bin\Release\netcoreapp2.0\BitcoinWallet.deps.json
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\bin\Release\netcoreapp2.0\BitcoinWallet.runtimeconfig.json
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\bin\Release\netcoreapp2.0\BitcoinWallet.runtimeconfig.dev.json
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\bin\Release\netcoreapp2.0\BitcoinWallet.dll
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\bin\Release\netcoreapp2.0\BitcoinWallet.pdb
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\obj\Release\netcoreapp2.0\BitcoinWallet.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\obj\Release\netcoreapp2.0\BitcoinWallet.AssemblyInfoInputs.cache
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\obj\Release\netcoreapp2.0\BitcoinWallet.AssemblyInfo.cs
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\obj\Release\netcoreapp2.0\BitcoinWallet.dll
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\obj\Release\netcoreapp2.0\BitcoinWallet.pdb
+C:\Users\Александр\Source\Repos\BitcoinWallet\BitcoinWallet\obj\Release\netcoreapp2.0\BitcoinWallet.csprojResolveAssemblyReference.cache
